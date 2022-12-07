@@ -14,8 +14,7 @@ Imports System.Linq
 Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxFormLayout
+Imports DevExpress.Web
 Imports System.Diagnostics
 
 Partial Public Class _Default
